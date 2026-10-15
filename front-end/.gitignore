@@ -1,0 +1,20 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets and environment
+.env
+
+# Node (if you use it for the frontend)
+node_modules/
+
+# Data and large files
+data/
+*.zip
+
+# Editor and OS
+.vscode/
+.DS_Store
+.ipynb_checkpoints/
